@@ -1,0 +1,1440 @@
+[
+    {
+        "Zwaluwhoeve": {
+            "PLACES_ID": "ChIJB4XP0P0yxkcRWDB9nB4BH3Y",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "wellnessboot mill": {
+            "PLACES_ID": "ChIJUQA0QpYax0cRAmYRowe0vOI",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:00 PM",
+                "Tuesday: 10:00 AM – 10:00 PM",
+                "Wednesday: 10:00 AM – 10:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 10:00 PM",
+                "Saturday: 10:00 AM – 10:00 PM",
+                "Sunday: 10:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "spapuur": {
+            "PLACES_ID": "ChIJie-F8CSWxkcRnHhGve4vAC8",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Dennenmarken": {
+            "PLACES_ID": "ChIJJX5EAbBMx0cRiV4wLCWwlVM",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Het Friese Woud": {
+            "PLACES_ID": "ChIJk4_g0r9ByEcRF9LS46K1Txw",
+            "openingstijden": [
+                "Monday: 11:00 AM – 10:30 PM",
+                "Tuesday: 11:00 AM – 10:30 PM",
+                "Wednesday: 11:00 AM – 10:30 PM",
+                "Thursday: 11:00 AM – 10:30 PM",
+                "Friday: 11:00 AM – 10:30 PM",
+                "Saturday: 11:00 AM – 10:30 PM",
+                "Sunday: 11:00 AM – 9:30 PM"
+            ]
+        }
+    },
+    {
+        "Thermen Anholts": {
+            "PLACES_ID": "ChIJ7yN5b7j6t0cR23eEZ0lusgg",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:00 PM",
+                "Tuesday: 10:00 AM – 10:00 PM",
+                "Wednesday: 10:00 AM – 10:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 10:00 PM",
+                "Saturday: 10:00 AM – 10:00 PM",
+                "Sunday: 10:00 AM – 8:00 PM"
+            ]
+        }
+    },
+    {
+        "Thermen De Waterlelie": {
+            "PLACES_ID": "ChIJSQwq6BE2yEcRKC0k1KZIgbo",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Drome Putten": {
+            "PLACES_ID": "ChIJw74cb8k1xkcR69r0Orj-UFE",
+            "openingstijden": [
+                "Monday: 10:00 AM – 11:00 PM",
+                "Tuesday: 10:00 AM – 11:00 PM",
+                "Wednesday: 10:00 AM – 11:00 PM",
+                "Thursday: 10:00 AM – 11:00 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Centre Du Lac": {
+            "PLACES_ID": "ChIJXagZVGnJxUcRrpXbNnUU8ko",
+            "openingstijden": [
+                "Monday: 10:00 AM – 11:00 PM",
+                "Tuesday: 10:00 AM – 11:00 PM",
+                "Wednesday: 10:00 AM – 11:00 PM",
+                "Thursday: 10:00 AM – 11:00 PM",
+                "Friday: 10:00 AM – 11:30 PM",
+                "Saturday: 10:00 AM – 11:30 PM",
+                "Sunday: 10:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Spavarin": {
+            "PLACES_ID": "ChIJASbI7F22xUcRg2t5y2obAAI",
+            "openingstijden": [
+                "Monday: 7:00 AM – 12:00 AM",
+                "Tuesday: 7:00 AM – 12:00 AM",
+                "Wednesday: 7:00 AM – 12:00 AM",
+                "Thursday: 7:00 AM – 12:00 AM",
+                "Friday: 7:00 AM – 12:00 AM",
+                "Saturday: 7:00 AM – 12:00 AM",
+                "Sunday: 7:00 AM – 12:00 AM"
+            ]
+        }
+    },
+    {
+        "Sauna De Bron": {
+            "PLACES_ID": "ChIJK67Vw1kuyEcRu8N1W5NUA54",
+            "openingstijden": [
+                "Monday: Closed",
+                "Tuesday: 10:30 AM – 10:00 PM",
+                "Wednesday: 10:30 AM – 10:00 PM",
+                "Thursday: 10:30 AM – 10:00 PM",
+                "Friday: 10:30 AM – 10:00 PM",
+                "Saturday: 10:30 AM – 10:00 PM",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Veluwse Bron": {
+            "PLACES_ID": "ChIJr5btVjfEx0cRZgAtrBlx1FA",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Thermen Holiday": {
+            "PLACES_ID": "ChIJpfK2-Fg1xEcRU6N09pXPqL0",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Elysium": {
+            "PLACES_ID": "ChIJse72wu2zqUcR0ppOiHZu6eM",
+            "openingstijden": [
+                "Monday: Closed",
+                "Tuesday: 5:00 PM – 12:00 AM",
+                "Wednesday: 5:00 PM – 12:00 AM",
+                "Thursday: 5:00 PM – 12:00 AM",
+                "Friday: 5:00 PM – 2:00 AM",
+                "Saturday: 5:00 PM – 2:00 AM",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Wellness Center De Bronsbergen": {
+            "PLACES_ID": "ChIJL3aSg_-Tx0cRf5nHx2t5Cx4",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:00 PM",
+                "Tuesday: 10:00 AM – 10:00 PM",
+                "Wednesday: 10:00 AM – 10:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 10:00 PM",
+                "Saturday: 10:00 AM – 10:00 PM",
+                "Sunday: 10:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Wellness Helmond": {
+            "PLACES_ID": "ChIJz94D_fAjx0cR0SvBCJAZNz0",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:00 PM",
+                "Tuesday: 10:00 AM – 10:00 PM",
+                "Wednesday: 10:00 AM – 10:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 10:00 PM",
+                "Saturday: 10:00 AM – 10:00 PM",
+                "Sunday: 10:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Spasereen": {
+            "PLACES_ID": "ChIJrzgkg2duxkcRZ7hYWA6nAGk",
+            "openingstijden": [
+                "Monday: 10:00 AM – 11:00 PM",
+                "Tuesday: 10:00 AM – 11:00 PM",
+                "Wednesday: 10:00 AM – 11:00 PM",
+                "Thursday: 10:00 AM – 11:00 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Epe": {
+            "PLACES_ID": "ChIJec0XdLE_uEcR7Lz-2aHqqf8",
+            "openingstijden": [
+                "Monday: 11:00 AM – 11:00 PM",
+                "Tuesday: 11:00 AM – 11:00 PM",
+                "Wednesday: 11:00 AM – 11:00 PM",
+                "Thursday: 11:00 AM – 11:00 PM",
+                "Friday: 11:00 AM – 11:00 PM",
+                "Saturday: 11:00 AM – 11:00 PM",
+                "Sunday: 11:00 AM – 8:00 PM"
+            ]
+        }
+    },
+    {
+        "Wellness Leiden": {
+            "PLACES_ID": "ChIJTbw65ejGxUcRo-YXc1iCCv4",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:00 PM",
+                "Tuesday: 10:00 AM – 10:00 PM",
+                "Wednesday: 10:00 AM – 10:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 10:00 PM",
+                "Saturday: 10:00 AM – 10:00 PM",
+                "Sunday: 10:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Spa Wellness Chateau St Gerlach": {
+            "PLACES_ID": "ChIJo3PPcifAwEcR1avPfT8Xc4g",
+            "openingstijden": [
+                "Monday: 10:00 AM – 6:00 PM",
+                "Tuesday: 10:00 AM – 6:00 PM",
+                "Wednesday: 10:00 AM – 6:00 PM",
+                "Thursday: 10:00 AM – 6:00 PM",
+                "Friday: 10:00 AM – 6:00 PM",
+                "Saturday: 10:00 AM – 6:00 PM",
+                "Sunday: 10:00 AM – 4:00 PM"
+            ]
+        }
+    },
+    {
+        "Landgoed De Rosep": {
+            "PLACES_ID": "ChIJnZDzDubBxkcREV8TWTiTcoE",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Thermen Bussloo": {
+            "PLACES_ID": "ChIJiZU_uu2_x0cRqZhnuKonNhc",
+            "openingstijden": [
+                "Monday: 9:00 AM – 11:30 PM",
+                "Tuesday: 9:00 AM – 11:30 PM",
+                "Wednesday: 9:00 AM – 11:30 PM",
+                "Thursday: 9:00 AM – 11:30 PM",
+                "Friday: 9:00 AM – 11:30 PM",
+                "Saturday: 9:00 AM – 11:30 PM",
+                "Sunday: 9:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Sanadome": {
+            "PLACES_ID": "ChIJ-Q2xZ5wIx0cRcOOV87qTxJw",
+            "openingstijden": [
+                "Monday: 9:00 AM – 11:00 PM",
+                "Tuesday: 9:00 AM – 11:00 PM",
+                "Wednesday: 9:00 AM – 11:00 PM",
+                "Thursday: 9:00 AM – 11:00 PM",
+                "Friday: 9:00 AM – 11:00 PM",
+                "Saturday: 9:00 AM – 11:00 PM",
+                "Sunday: 9:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Parkhotel Horst": {
+            "PLACES_ID": "ChIJM99p0mVBx0cRgv20D8xHjVU",
+            "openingstijden": [
+                "Monday: 12:00 AM – 5:00 PM",
+                "Tuesday: 12:00 AM – 5:00 PM",
+                "Wednesday: 12:00 AM – 5:00 PM",
+                "Thursday: 12:00 AM – 5:00 PM",
+                "Friday: 12:00 AM – 5:00 PM",
+                "Saturday: 12:00 AM – 5:00 PM",
+                "Sunday: Open 24 hours"
+            ]
+        }
+    },
+    {
+        "Wellness Sittard": {
+            "PLACES_ID": "ChIJocfNJXbHwEcRhyF7NjOrEo8",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:00 PM",
+                "Tuesday: 10:00 AM – 10:00 PM",
+                "Wednesday: 10:00 AM – 10:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 10:00 PM",
+                "Saturday: 10:00 AM – 10:00 PM",
+                "Sunday: 10:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Bad Boekelo": {
+            "PLACES_ID": "ChIJt6qaqiETuEcRXNJXM3SgHMM",
+            "openingstijden": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        }
+    },
+    {
+        "Wellness Goes": {
+            "PLACES_ID": "ChIJu0Eo88KJxEcRuq21jr8u9n4",
+            "openingstijden": [
+                "Monday: 10:30 AM – 10:30 PM",
+                "Tuesday: 10:30 AM – 10:30 PM",
+                "Wednesday: 10:30 AM – 10:30 PM",
+                "Thursday: 10:30 AM – 10:30 PM",
+                "Friday: 10:30 AM – 11:30 PM",
+                "Saturday: 10:30 AM – 11:30 PM",
+                "Sunday: 10:30 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Zuiver Amsterdam": {
+            "PLACES_ID": "ChIJN7FNpebhxUcRixO4MqFE3jU",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Spasense": {
+            "PLACES_ID": "ChIJFZoG8ZUnx0cRT1D5vcORDCg",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Thermae Son": {
+            "PLACES_ID": "ChIJxST6N1LexkcRZFWGeMPxx4g",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Beautyfarm Midwolda": {
+            "PLACES_ID": "ChIJseMkwzUttkcRmhEN2aEg8oc",
+            "openingstijden": [
+                "Monday: 11:30 AM – 11:00 PM",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: Closed",
+                "Friday: 11:30 AM – 11:00 PM",
+                "Saturday: 11:30 AM – 11:00 PM",
+                "Sunday: 11:30 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Spa Wellness Weesp": {
+            "PLACES_ID": "ChIJXS9QBakNxkcRk0ps4V7-ePI",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Sauna En Beauty Ommen": {
+            "PLACES_ID": "ChIJjYMK_Uj9x0cRE2Fq66o1tgE",
+            "openingstijden": [
+                "Monday: 10:00 AM – 9:00 PM",
+                "Tuesday: 10:00 AM – 9:00 PM",
+                "Wednesday: 10:00 AM – 9:00 PM",
+                "Thursday: 10:00 AM – 9:00 PM",
+                "Friday: 10:00 AM – 9:00 PM",
+                "Saturday: 10:00 AM – 9:00 PM",
+                "Sunday: 10:00 AM – 9:00 PM"
+            ]
+        }
+    },
+    {
+        "Het Nolderwoud": {
+            "PLACES_ID": "ChIJu48_cWYPyEcR86QDMJtz390",
+            "openingstijden": [
+                "Monday: 9:00 AM – 5:00 PM",
+                "Tuesday: 9:00 AM – 5:00 PM",
+                "Wednesday: 9:00 AM – 5:00 PM",
+                "Thursday: 9:00 AM – 5:00 PM",
+                "Friday: 9:00 AM – 5:00 PM",
+                "Saturday: 9:00 AM – 5:00 PM",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Salon Francy": {
+            "PLACES_ID": "ChIJg85nb5DiyEcRW9v-H41R9p4",
+            "openingstijden": [
+                "Monday: 9:30 AM – 8:00 PM",
+                "Tuesday: 9:30 AM – 8:00 PM",
+                "Wednesday: 9:30 AM – 8:00 PM",
+                "Thursday: 9:30 AM – 8:00 PM",
+                "Friday: 9:30 AM – 8:00 PM",
+                "Saturday: 9:30 AM – 4:30 PM",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Fort Resort Beemster": {
+            "PLACES_ID": "ChIJ2V3ZdsYAxkcR31b3R1Gu_DU",
+            "openingstijden": [
+                "Monday: 10:00 AM – 11:00 PM",
+                "Tuesday: 10:00 AM – 11:00 PM",
+                "Wednesday: 10:00 AM – 11:00 PM",
+                "Thursday: 10:00 AM – 11:00 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Zonnestudio Sunshine Groningen": {
+            "PLACES_ID": "ChIJ44CqLUzNyUcR8UCO-NHNNaU",
+            "openingstijden": [
+                "Monday: 9:00 AM – 9:30 PM",
+                "Tuesday: 9:00 AM – 9:30 PM",
+                "Wednesday: 9:00 AM – 9:30 PM",
+                "Thursday: 9:00 AM – 9:30 PM",
+                "Friday: 9:00 AM – 9:30 PM",
+                "Saturday: 9:00 AM – 8:00 PM",
+                "Sunday: 9:00 AM – 8:00 PM"
+            ]
+        }
+    },
+    {
+        "Plaza Sportiva Wellness": {
+            "PLACES_ID": "ChIJsYY63UwtyEcRkUXZq046rrE",
+            "openingstijden": [
+                "Monday: 7:00 AM – 11:00 PM",
+                "Tuesday: 7:00 AM – 11:00 PM",
+                "Wednesday: 7:00 AM – 11:00 PM",
+                "Thursday: 7:00 AM – 11:00 PM",
+                "Friday: 7:00 AM – 11:00 PM",
+                "Saturday: 8:00 AM – 5:00 PM",
+                "Sunday: 8:00 AM – 5:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Keizer": {
+            "PLACES_ID": "ChIJ2WeKHzsXuEcRFAAXbK1yrZk",
+            "openingstijden": [
+                "Monday: 12:00 – 10:30 PM",
+                "Tuesday: 12:00 – 10:30 PM",
+                "Wednesday: 3:00 – 10:30 PM",
+                "Thursday: 12:00 – 10:30 PM",
+                "Friday: 3:00 – 10:30 PM",
+                "Saturday: Closed",
+                "Sunday: 12:00 – 8:00 PM"
+            ]
+        }
+    },
+    {
+        "Thermae Grimbergen": {
+            "PLACES_ID": "ChIJ4ZDDq9bpw0cRxbXdFEYO4dU",
+            "openingstijden": [
+                "Monday: 10:30 AM – 11:00 PM",
+                "Tuesday: 10:30 AM – 11:00 PM",
+                "Wednesday: 10:30 AM – 11:00 PM",
+                "Thursday: 10:30 AM – 11:00 PM",
+                "Friday: 10:30 AM – 12:00 AM",
+                "Saturday: 10:30 AM – 12:00 AM",
+                "Sunday: 10:30 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Thermae Boetfort": {
+            "PLACES_ID": "ChIJZRgOa5Ddw0cRwqQEkIAT6_U",
+            "openingstijden": [
+                "Monday: 10:30 AM – 11:00 PM",
+                "Tuesday: 10:30 AM – 11:00 PM",
+                "Wednesday: 10:30 AM – 11:00 PM",
+                "Thursday: 10:30 AM – 11:00 PM",
+                "Friday: 10:30 AM – 12:00 AM",
+                "Saturday: 10:30 AM – 12:00 AM",
+                "Sunday: 10:30 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Peize": {
+            "PLACES_ID": "ChIJYeSDLMQzyEcRVTo38EBL_vI",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Heuvelrug": {
+            "PLACES_ID": "ChIJ7WhmBnFRxkcR_8n14xfc6Go",
+            "openingstijden": [
+                "Monday: 10:00 AM – 11:00 PM",
+                "Tuesday: 10:00 AM – 11:00 PM",
+                "Wednesday: 10:00 AM – 11:00 PM",
+                "Thursday: 10:00 AM – 11:00 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Amstelland": {
+            "PLACES_ID": "ChIJy5Nj88DfxUcR03jFTqWGGgA",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Devarana": {
+            "PLACES_ID": "ChIJjVuwYH_uxkcRaDcYr7zMu6c",
+            "openingstijden": [
+                "Monday: 11:00 AM – 10:00 PM",
+                "Tuesday: 11:00 AM – 10:00 PM",
+                "Wednesday: 11:00 AM – 10:00 PM",
+                "Thursday: 11:00 AM – 10:00 PM",
+                "Friday: 11:00 AM – 10:00 PM",
+                "Saturday: 11:00 AM – 10:00 PM",
+                "Sunday: 11:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Spa Wellness Hof Van Saksen": {
+            "PLACES_ID": "ChIJMwN8zucmyEcRkmPufuqfBJ4",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Thermen Zuidwolde": {
+            "PLACES_ID": "ChIJBS2Q13oPyEcR0BdEq4zdvIo",
+            "openingstijden": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 10:00 AM – 10:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 10:00 PM",
+                "Saturday: 10:00 AM – 10:00 PM",
+                "Sunday: 10:00 AM – 9:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Papendrecht": {
+            "PLACES_ID": "ChIJnZkyOF4pxEcRG7jJ-shqH4Q",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Mist City Spa": {
+            "PLACES_ID": "ChIJI9iiIL-ZxkcRSRASUch_6qE",
+            "openingstijden": [
+                "Monday: 9:00 AM – 1:00 AM",
+                "Tuesday: 9:00 AM – 1:00 AM",
+                "Wednesday: 9:00 AM – 1:00 AM",
+                "Thursday: 9:00 AM – 1:00 AM",
+                "Friday: 9:00 AM – 1:00 AM",
+                "Saturday: 9:00 AM – 1:00 AM",
+                "Sunday: 9:00 AM – 1:00 AM"
+            ]
+        }
+    },
+    {
+        "Descansa": {
+            "PLACES_ID": "ChIJx1SA-2u6d0cRGUTmVM8M97E",
+            "openingstijden": [
+                "Monday: 10:00 AM – 6:00 PM",
+                "Tuesday: 10:00 AM – 6:00 PM",
+                "Wednesday: 10:00 AM – 6:00 PM",
+                "Thursday: 10:00 AM – 6:00 PM",
+                "Friday: 10:00 AM – 6:00 PM",
+                "Saturday: 10:00 AM – 6:00 PM",
+                "Sunday: 10:00 AM – 6:00 PM"
+            ]
+        }
+    },
+    {
+        "Fontana Nieuweschans": {
+            "PLACES_ID": "ChIJ1bHa5jE1tkcRpPdnaNGS5LQ",
+            "openingstijden": [
+                "Monday: 9:00 AM – 11:00 PM",
+                "Tuesday: 9:00 AM – 11:00 PM",
+                "Wednesday: 9:00 AM – 11:00 PM",
+                "Thursday: 9:00 AM – 11:00 PM",
+                "Friday: 9:00 AM – 11:00 PM",
+                "Saturday: 9:00 AM – 11:00 PM",
+                "Sunday: 9:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Ons Buiten Oostkapelle": {
+            "PLACES_ID": "ChIJpdYHJ8mVxEcRdRYFG-920D4",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Warmond": {
+            "PLACES_ID": "ChIJadnD-7TGxUcRqIgBq5sj700",
+            "openingstijden": [
+                "Monday: Closed",
+                "Tuesday: 10:30 AM – 10:30 PM",
+                "Wednesday: 10:30 AM – 10:30 PM",
+                "Thursday: 10:30 AM – 10:30 PM",
+                "Friday: 10:30 AM – 10:30 PM",
+                "Saturday: 10:30 AM – 10:30 PM",
+                "Sunday: 10:30 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Deco": {
+            "PLACES_ID": "ChIJy0OxCsYJxkcR5Uawr8oT1po",
+            "openingstijden": [
+                "Monday: 11:00 AM – 10:00 PM",
+                "Tuesday: 4:00 – 10:00 PM",
+                "Wednesday: 11:00 AM – 10:00 PM",
+                "Thursday: 11:00 AM – 10:00 PM",
+                "Friday: 11:00 AM – 10:00 PM",
+                "Saturday: 11:00 AM – 10:00 PM",
+                "Sunday: 1:00 – 7:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Van Egmond Haarlem": {
+            "PLACES_ID": "ChIJX_KFaJvvxUcRYUvgnFLUuyQ",
+            "openingstijden": [
+                "Monday: 10:00 AM – 11:00 PM",
+                "Tuesday: 10:00 AM – 11:00 PM",
+                "Wednesday: 10:00 AM – 11:00 PM",
+                "Thursday: 10:00 AM – 11:00 PM",
+                "Friday: 10:00 AM – 11:30 PM",
+                "Saturday: 10:00 AM – 11:30 PM",
+                "Sunday: 10:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Den Ilp": {
+            "PLACES_ID": "ChIJ4xo42MMHxkcRA-dXiBALdeQ",
+            "openingstijden": [
+                "Monday: 12:00 – 10:00 PM",
+                "Tuesday: 12:00 – 10:00 PM",
+                "Wednesday: 12:00 – 10:00 PM",
+                "Thursday: 12:00 – 10:00 PM",
+                "Friday: 12:00 – 10:00 PM",
+                "Saturday: 12:00 – 10:00 PM",
+                "Sunday: 12:00 – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Het Kuurhuys": {
+            "PLACES_ID": "ChIJ5w_FCU21yEcRYYmkBi91mVQ",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Ridderrode": {
+            "PLACES_ID": "ChIJU-pgTcnvxUcRs-2J_5IoZcM",
+            "openingstijden": [
+                "Monday: 12:00 – 10:00 PM",
+                "Tuesday: 12:00 – 10:00 PM",
+                "Wednesday: 12:00 – 10:00 PM",
+                "Thursday: 12:00 – 10:00 PM",
+                "Friday: 12:00 – 10:00 PM",
+                "Saturday: 12:00 – 10:00 PM",
+                "Sunday: 12:00 – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "De Sauna Van Diemen": {
+            "PLACES_ID": "ChIJV47Dm_sLxkcRTOuU45GPeE0",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Vita Allegra": {
+            "PLACES_ID": "ChIJcVFMvAqtwEcRq0K5dp5t3UI",
+            "openingstijden": [
+                "Monday: 7:00 AM – 11:00 PM",
+                "Tuesday: 7:00 AM – 11:00 PM",
+                "Wednesday: 7:00 AM – 11:00 PM",
+                "Thursday: 7:00 AM – 11:00 PM",
+                "Friday: 7:00 AM – 11:00 PM",
+                "Saturday: 7:00 AM – 11:00 PM",
+                "Sunday: 7:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna De Wilder Zwembad De Wilder": {
+            "PLACES_ID": "ChIJPxDiRO5yuEcRMDp5Z_aa4QU",
+            "openingstijden": [
+                "Monday: 7:15 – 8:30 AM, 10:00 AM – 12:00 PM, 8:15 – 9:30 PM",
+                "Tuesday: 8:30 AM – 12:00 PM, 8:15 – 9:30 PM",
+                "Wednesday: 7:15 – 8:30 AM, 10:00 AM – 12:00 PM, 8:15 – 9:30 PM",
+                "Thursday: 8:15 – 9:30 PM",
+                "Friday: 7:15 – 8:30 AM, 10:00 AM – 3:00 PM",
+                "Saturday: 12:00 – 3:30 PM",
+                "Sunday: 10:00 AM – 2:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Bodycare": {
+            "PLACES_ID": "ChIJhd4BxUS4x0cRLiPDhCy1qu4",
+            "openingstijden": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 11:00 AM – 10:00 PM",
+                "Thursday: 11:00 AM – 10:00 PM",
+                "Friday: 11:00 AM – 11:00 PM",
+                "Saturday: 11:00 AM – 11:00 PM",
+                "Sunday: 11:00 AM – 8:00 PM"
+            ]
+        }
+    },
+    {
+        "Wilmersberg": {
+            "PLACES_ID": "ChIJO1ZhgpIXuEcR1larqozcTL8",
+            "openingstijden": [
+                "Monday: 6:00 AM – 12:00 AM",
+                "Tuesday: 6:00 AM – 12:00 AM",
+                "Wednesday: 6:00 AM – 12:00 AM",
+                "Thursday: 6:00 AM – 12:00 AM",
+                "Friday: 6:00 AM – 12:00 AM",
+                "Saturday: 6:00 AM – 12:00 AM",
+                "Sunday: 6:00 AM – 12:00 AM"
+            ]
+        }
+    },
+    {
+        "Spa Wellness Sneek": {
+            "PLACES_ID": "ChIJM4mVe6LxyEcRb2gjdB8Wvh0",
+            "openingstijden": [
+                "Monday: 12:30 – 5:30 PM",
+                "Tuesday: Closed",
+                "Wednesday: 9:00 AM – 8:00 PM",
+                "Thursday: 9:00 AM – 8:00 PM",
+                "Friday: 9:00 AM – 5:00 PM",
+                "Saturday: 9:00 AM – 4:00 PM",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Sauna Terschelling": {
+            "PLACES_ID": "ChIJc4R4cbApyUcRt5Z5HkzZhMM",
+            "openingstijden": [
+                "Monday: 8:00 AM – 9:00 PM",
+                "Tuesday: 8:00 AM – 9:00 PM",
+                "Wednesday: 8:00 AM – 9:00 PM",
+                "Thursday: 8:00 AM – 9:00 PM",
+                "Friday: 8:00 AM – 9:00 PM",
+                "Saturday: 9:00 AM – 9:00 PM",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Sauna Loppersum": {
+            "PLACES_ID": "ChIJ-wayQ1w_tkcRm66_l_5Pq6g",
+            "openingstijden": [
+                "Monday: 9:00 AM – 6:00 PM",
+                "Tuesday: 9:00 AM – 6:00 PM",
+                "Wednesday: 9:00 AM – 6:00 PM",
+                "Thursday: 9:00 AM – 6:00 PM",
+                "Friday: 9:00 AM – 6:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Hotel Aan De Wymerts": {
+            "PLACES_ID": "ChIJOXiygEHqyEcRLx06huWItDM",
+            "openingstijden": [
+                "Monday: 8:30 AM – 11:00 PM",
+                "Tuesday: 8:30 AM – 11:00 PM",
+                "Wednesday: 8:30 AM – 11:00 PM",
+                "Thursday: 8:30 AM – 11:00 PM",
+                "Friday: 8:30 AM – 11:00 PM",
+                "Saturday: 8:30 AM – 11:00 PM",
+                "Sunday: 8:30 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Tjaarda Oranjewoud": {
+            "PLACES_ID": "ChIJXRhRhi5cyEcRaQsZ0rmDspo",
+            "openingstijden": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        }
+    },
+    {
+        "Sauna La Femme": {
+            "PLACES_ID": "ChIJuZci8iFSqEcR_b8J8AaEmsc",
+            "openingstijden": [
+                "Monday: 6:00 AM – 8:00 PM",
+                "Tuesday: 6:00 AM – 8:00 PM",
+                "Wednesday: 6:00 AM – 8:00 PM",
+                "Thursday: 6:00 AM – 8:00 PM",
+                "Friday: 6:00 AM – 8:00 PM",
+                "Saturday: 6:00 AM – 8:00 PM",
+                "Sunday: 6:00 AM – 8:00 PM"
+            ]
+        }
+    },
+    {
+        "Wellness Lucia": {
+            "PLACES_ID": "ChIJ3_Bt8ZirqUcROQC0gyFiqwM",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Aquarius": {
+            "PLACES_ID": "ChIJwfVZKvhOZUER6yTPTROWU_o",
+            "openingstijden": [
+                "Monday: Closed",
+                "Tuesday: 1:00 – 10:00 PM",
+                "Wednesday: Closed",
+                "Thursday: 3:30 – 10:00 PM",
+                "Friday: 1:00 – 10:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Sauna Helios": {
+            "PLACES_ID": "ChIJ02hND09XqEcRuZAhyklZlvk",
+            "openingstijden": [
+                "Monday: 10:00 AM – 4:00 PM",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: 10:00 AM – 2:00 PM",
+                "Friday: 10:00 AM – 12:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Beauty Center De Terp": {
+            "PLACES_ID": "ChIJDyU7gOUayEcRprUk3oDpuow",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Bad Hesselingen Meppel": {
+            "PLACES_ID": "ChIJVRAZ2PRyyEcR0dxOO5uDq8Q",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Oosterhout": {
+            "PLACES_ID": "ChIJFalNp1WfxkcREqsPIlF6xcw",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Gieterveen": {
+            "PLACES_ID": "ChIJbdEnDG7Xt0cR_61xbeY0aRk",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Abdij De Westerburcht": {
+            "PLACES_ID": "ChIJu-MhQU4fyEcRkbMVTMy13h0",
+            "openingstijden": [
+                "Monday: 7:00 AM – 10:00 PM",
+                "Tuesday: 7:00 AM – 10:00 PM",
+                "Wednesday: 7:00 AM – 10:00 PM",
+                "Thursday: 7:00 AM – 10:00 PM",
+                "Friday: 7:00 AM – 10:00 PM",
+                "Saturday: 8:00 AM – 10:00 PM",
+                "Sunday: 8:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Bron Apart": {
+            "PLACES_ID": "ChIJoXSanSrlxkcREaLhx7IE53U",
+            "openingstijden": [
+                "Monday: 7:00 AM – 11:30 PM",
+                "Tuesday: 7:00 AM – 11:30 PM",
+                "Wednesday: 7:00 AM – 11:30 PM",
+                "Thursday: 7:00 AM – 11:30 PM",
+                "Friday: 7:00 AM – 11:30 PM",
+                "Saturday: 7:00 AM – 11:30 PM",
+                "Sunday: 7:00 AM – 11:30 PM"
+            ]
+        }
+    },
+    {
+        "Spameland": {
+            "PLACES_ID": "ChIJM3I88LgQyUcRI5SDaE_j6rM",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Franeker": {
+            "PLACES_ID": "ChIJQ73iP1vhyEcR6iBeC1duhx8",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Aquavia": {
+            "PLACES_ID": "ChIJGamXTtQgpBIRkAZxmT-0tdc",
+            "openingstijden": [
+                "Monday: 8:30 AM – 1:30 PM, 3:00 – 6:00 PM",
+                "Tuesday: 8:30 AM – 1:30 PM, 3:00 – 6:00 PM",
+                "Wednesday: 8:30 AM – 1:30 PM, 3:00 – 6:00 PM",
+                "Thursday: 8:30 AM – 1:30 PM, 3:00 – 6:00 PM",
+                "Friday: 8:00 AM – 3:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Thermen En Beauty Zeeland": {
+            "PLACES_ID": "ChIJgSneSNGZxEcRxzzXh24xJog",
+            "openingstijden": [
+                "Monday: 9:00 AM – 5:00 PM",
+                "Tuesday: 10:00 AM – 12:00 PM, 6:00 – 10:00 PM",
+                "Wednesday: 10:00 AM – 9:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 10:00 PM",
+                "Saturday: 10:00 AM – 6:00 PM",
+                "Sunday: Closed"
+            ]
+        }
+    },
+    {
+        "Sauna De Bongerd": {
+            "PLACES_ID": "ChIJl6j7UlSuyEcR6OTlE9NR-kg",
+            "openingstijden": [
+                "Monday: 11:00 AM – 10:00 PM",
+                "Tuesday: 11:00 AM – 10:00 PM",
+                "Wednesday: 11:00 AM – 10:00 PM",
+                "Thursday: 11:00 AM – 10:00 PM",
+                "Friday: 11:00 AM – 10:00 PM",
+                "Saturday: 11:00 AM – 10:00 PM",
+                "Sunday: 11:00 AM – 9:00 PM"
+            ]
+        }
+    },
+    {
+        "Thermaalbad Arcen": {
+            "PLACES_ID": "ChIJRxCfMzRdx0cRWCV3nNYPq6E",
+            "openingstijden": [
+                "Monday: 8:30 AM – 11:00 PM",
+                "Tuesday: 8:30 AM – 11:00 PM",
+                "Wednesday: 8:30 AM – 11:00 PM",
+                "Thursday: 8:30 AM – 11:00 PM",
+                "Friday: 8:30 AM – 11:00 PM",
+                "Saturday: 8:30 AM – 11:00 PM",
+                "Sunday: 8:30 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Soesterberg": {
+            "PLACES_ID": "ChIJuzAmQFNCxkcRZymCFC_tOBE",
+            "openingstijden": [
+                "Monday: 9:00 AM – 11:00 PM",
+                "Tuesday: 9:00 AM – 11:00 PM",
+                "Wednesday: 9:00 AM – 11:00 PM",
+                "Thursday: 9:00 AM – 11:00 PM",
+                "Friday: 9:00 AM – 11:00 PM",
+                "Saturday: 9:00 AM – 11:00 PM",
+                "Sunday: 9:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Spa Gouda": {
+            "PLACES_ID": "ChIJJ_CGJgLUxUcRHsCWLAm845I",
+            "openingstijden": [
+                "Monday: Closed",
+                "Tuesday: 11:00 AM – 10:00 PM",
+                "Wednesday: 11:00 AM – 10:00 PM",
+                "Thursday: 11:00 AM – 10:00 PM",
+                "Friday: 11:00 AM – 10:00 PM",
+                "Saturday: 11:00 AM – 10:00 PM",
+                "Sunday: 11:00 AM – 6:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Aestas": {
+            "PLACES_ID": "ChIJYdHuppgmxkcRqXUJ9OqaZas",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Easyfeeling": {
+            "PLACES_ID": "ChIJL7djZeaEx0cRdYKShE5hEZc",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Welcome Wellness Westcord": {
+            "PLACES_ID": "ChIJb1SnFdhxp0cR3J75rkt5eXw",
+            "openingstijden": [
+                "Monday: 8:00 AM – 9:00 PM",
+                "Tuesday: 2:00 – 9:00 PM",
+                "Wednesday: 8:00 AM – 9:00 PM",
+                "Thursday: 2:00 – 9:00 PM",
+                "Friday: 8:00 AM – 11:00 PM",
+                "Saturday: 2:00 – 11:00 PM",
+                "Sunday: 10:00 AM – 4:00 PM"
+            ]
+        }
+    },
+    {
+        "Westcord Wtc Hotel Leeuwarden": {
+            "PLACES_ID": "ChIJgcAJ0TH8yEcRyWVSVHcUddA",
+            "openingstijden": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        }
+    },
+    {
+        "Hunzebergen": {
+            "PLACES_ID": "ChIJjbUFHXXdt0cR9Tu7fwaj6Co",
+            "openingstijden": [
+                "Monday: 7:00 AM – 10:00 PM",
+                "Tuesday: 7:00 AM – 10:00 PM",
+                "Wednesday: 7:00 AM – 10:00 PM",
+                "Thursday: 7:00 AM – 10:00 PM",
+                "Friday: 7:00 AM – 10:00 PM",
+                "Saturday: 8:00 AM – 10:00 PM",
+                "Sunday: 8:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Amadore Kamperduinen": {
+            "PLACES_ID": "ChIJrblrIvySxEcRFTX5M7igdck",
+            "openingstijden": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        }
+    },
+    {
+        "Betuwsch Badhuys": {
+            "PLACES_ID": "ChIJjbifx-1WxkcRqmVg90sDSLU",
+            "openingstijden": [
+                "Monday: 9:00 AM – 5:00 PM",
+                "Tuesday: 9:00 AM – 5:00 PM",
+                "Wednesday: 9:00 AM – 10:00 PM",
+                "Thursday: 9:00 AM – 10:00 PM",
+                "Friday: 9:00 AM – 10:00 PM",
+                "Saturday: 9:00 AM – 10:00 PM",
+                "Sunday: 9:00 AM – 5:00 PM"
+            ]
+        }
+    },
+    {
+        "Het Raedthuys": {
+            "PLACES_ID": "ChIJH0iVWV0NxEcR7n9F1h4dK4E",
+            "openingstijden": [
+                "Monday: 10:00 AM – 11:00 PM",
+                "Tuesday: Closed",
+                "Wednesday: 10:00 AM – 11:00 PM",
+                "Thursday: 10:00 AM – 11:00 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Caesar Den Haag": {
+            "PLACES_ID": "ChIJRaFjGzG3xUcR0D2CXY04gMc",
+            "openingstijden": [
+                "Monday: 7:00 AM – 11:00 PM",
+                "Tuesday: 7:00 AM – 11:00 PM",
+                "Wednesday: 7:00 AM – 11:00 PM",
+                "Thursday: 7:00 AM – 11:00 PM",
+                "Friday: 7:00 AM – 11:00 PM",
+                "Saturday: 9:00 AM – 10:00 PM",
+                "Sunday: 9:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "De Woudfennen": {
+            "PLACES_ID": "ChIJ-SOV52n0yEcRS1Y2vfq6sWQ",
+            "openingstijden": [
+                "Monday: 10:30 AM – 10:30 PM",
+                "Tuesday: 10:30 AM – 11:30 PM",
+                "Wednesday: 10:30 AM – 11:30 PM",
+                "Thursday: 10:30 AM – 11:30 PM",
+                "Friday: 10:30 AM – 11:30 PM",
+                "Saturday: 10:30 AM – 11:30 PM",
+                "Sunday: 10:30 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Thermae 2000": {
+            "PLACES_ID": "ChIJjXFj9q7qwEcRf1vM8JDfqQw",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 10:30 PM",
+                "Saturday: 10:00 AM – 10:30 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Wellness Trivium": {
+            "PLACES_ID": "ChIJoZiULBMfxEcR280wrOvxJSE",
+            "openingstijden": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        }
+    },
+    {
+        "Thermen Goirle": {
+            "PLACES_ID": "ChIJByagWJa-xkcRHmQxEbNct0U",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Thermen La Mer": {
+            "PLACES_ID": "ChIJY5WGRpUWxkcRGHhtRUxOp3M",
+            "openingstijden": [
+                "Monday: 10:00 AM – 11:00 PM",
+                "Tuesday: 10:00 AM – 11:00 PM",
+                "Wednesday: 10:00 AM – 11:00 PM",
+                "Thursday: 10:00 AM – 11:00 PM",
+                "Friday: 10:00 AM – 11:30 PM",
+                "Saturday: 10:00 AM – 11:30 PM",
+                "Sunday: 10:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna De Veluwe": {
+            "PLACES_ID": "ChIJI-JFEA5NxkcR61LhzyCMX-s",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: Closed",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 10:30 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Velp": {
+            "PLACES_ID": "ChIJSxbRWYKjx0cRwuogE7jVn60",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Beautycentrum De Parel": {
+            "PLACES_ID": "ChIJZzFf0A--xEcRKfEWUZqCkrM",
+            "openingstijden": [
+                "Monday: 10:00 AM – 9:00 PM",
+                "Tuesday: 10:00 AM – 5:00 PM",
+                "Wednesday: 10:00 AM – 9:00 PM",
+                "Thursday: 10:00 AM – 9:00 PM",
+                "Friday: 10:00 AM – 9:00 PM",
+                "Saturday: 10:00 AM – 9:00 PM",
+                "Sunday: 10:00 AM – 9:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Leeuwerikhoeve": {
+            "PLACES_ID": "ChIJDTgUeV5UyEcRPL0xjmFyEg8",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:30 PM",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 10:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna De Leliehof": {
+            "PLACES_ID": "ChIJK8pKmonCyEcRc8kq_v5p1O8",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Sauna Swoll": {
+            "PLACES_ID": "ChIJU0Lc5yPex0cRgZmhPi0dQdE",
+            "openingstijden": [
+                "Monday: 10:00 AM – 10:00 PM",
+                "Tuesday: Closed",
+                "Wednesday: 10:00 AM – 10:00 PM",
+                "Thursday: 10:00 AM – 10:00 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 12:00 – 9:00 PM"
+            ]
+        }
+    },
+    {
+        "Sauna Hoen": {
+            "PLACES_ID": "ChIJHbJvc_ZSqEcRn9v37r7R5vc",
+            "openingstijden": [
+                "Monday: 8:00 AM – 10:00 PM",
+                "Tuesday: 8:00 AM – 10:00 PM",
+                "Wednesday: 8:00 AM – 10:00 PM",
+                "Thursday: 8:00 AM – 10:00 PM",
+                "Friday: 8:00 AM – 10:00 PM",
+                "Saturday: 8:00 AM – 8:00 PM",
+                "Sunday: 8:00 AM – 8:00 PM"
+            ]
+        }
+    },
+    {
+        "Sare Thermen Beauty": {
+            "PLACES_ID": "ChIJiYPW_MEQuEcREgh654Z54UY",
+            "openingstijden": [
+                "Monday: 9:30 AM – 10:30 PM",
+                "Tuesday: 9:30 AM – 10:30 PM",
+                "Wednesday: 9:30 AM – 10:30 PM",
+                "Thursday: 9:30 AM – 10:30 PM",
+                "Friday: 9:30 AM – 11:00 PM",
+                "Saturday: 9:30 AM – 11:00 PM",
+                "Sunday: 9:30 AM – 9:30 PM"
+            ]
+        }
+    },
+    {
+        "Palestra": {
+            "PLACES_ID": "ChIJ__-_2hxRqEcRCX_qmW40mN4",
+            "openingstijden": [
+                "Monday: 8:30 AM – 11:00 PM",
+                "Tuesday: 8:30 AM – 11:00 PM",
+                "Wednesday: 8:30 AM – 11:00 PM",
+                "Thursday: 8:30 AM – 11:00 PM",
+                "Friday: 8:30 AM – 11:00 PM",
+                "Saturday: 10:30 AM – 8:15 PM",
+                "Sunday: 10:30 AM – 8:15 PM"
+            ]
+        }
+    },
+    {
+        "Orange Wellness Centre": {
+            "PLACES_ID": "ChIJD8r8hGLsC0cRpJWxVu1GYc8",
+            "openingstijden": [
+                "Monday: 7:00 AM – 11:00 PM",
+                "Tuesday: 7:00 AM – 11:00 PM",
+                "Wednesday: 7:00 AM – 11:00 PM",
+                "Thursday: 7:00 AM – 11:00 PM",
+                "Friday: 7:00 AM – 11:00 PM",
+                "Saturday: 7:00 AM – 11:00 PM",
+                "Sunday: 7:00 AM – 11:00 PM"
+            ]
+        }
+    },
+    {
+        "Fonteyn Thermen": {
+            "PLACES_ID": "ChIJVVUFhudsxEcRXBzOrGCKRlY",
+            "openingstijden": "No times found"
+        }
+    },
+    {
+        "Top Alivio": {
+            "PLACES_ID": "ChIJoeA80bhKx0cRQNxgOP3b_JA",
+            "openingstijden": [
+                "Monday: Closed",
+                "Tuesday: 10:00 AM – 10:30 PM",
+                "Wednesday: 10:00 AM – 10:30 PM",
+                "Thursday: 10:00 AM – 10:30 PM",
+                "Friday: 10:00 AM – 11:00 PM",
+                "Saturday: 10:00 AM – 11:00 PM",
+                "Sunday: 10:00 AM – 9:00 PM"
+            ]
+        }
+    },
+    {
+        "Spabron Hesselerbrug": {
+            "PLACES_ID": "ChIJicAsG1vit0cRCw1-bFC2gCI",
+            "openingstijden": [
+                "Monday: 10:30 AM – 10:30 PM",
+                "Tuesday: 10:30 AM – 10:30 PM",
+                "Wednesday: 10:30 AM – 10:30 PM",
+                "Thursday: 10:30 AM – 10:30 PM",
+                "Friday: 10:30 AM – 10:30 PM",
+                "Saturday: 10:30 AM – 10:30 PM",
+                "Sunday: 10:30 AM – 9:30 PM"
+            ]
+        }
+    }
+]
