@@ -33,7 +33,6 @@ function convertTo24Hour(timeString) {
 
 
 
-
 saunas.forEach(sauna => {
     const saunaData = Object.values(sauna)[0];
     if (saunaData.openingstijden && typeof saunaData.openingstijden == 'object') {
