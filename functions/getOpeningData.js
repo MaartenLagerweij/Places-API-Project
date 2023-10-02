@@ -6,7 +6,7 @@ const API_KEY = process.env.API_KEY;
 const DETAILS_URL = 'https://maps.googleapis.com/maps/api/place/details/json';
 const FILE_PATH = __dirname+'/../data/sauna-openingstijden.json';
 
-const saunas = JSON.parse(fs.readFileSync(FILE_PATH, 'utf8'));
+//const saunas = JSON.parse(fs.readFileSync(FILE_PATH, 'utf8'));
 
 async function getOpeningHours(place_id){
     try {
@@ -25,7 +25,7 @@ async function getOpeningHours(place_id){
     }
 }
 
-async function updateOpeninghours(){
+async function updateOpeninghours(saunas){
     for(let sauna of saunas){
         const saunaName = Object.keys(sauna)[0];
         if(!Object.values(sauna)[0]['openingstijden']) {
@@ -36,4 +36,4 @@ async function updateOpeninghours(){
     fs.writeFileSync(FILE_PATH, JSON.stringify(saunas, null, 2));
 }
 
-updateOpeninghours();
+module.exports = updateOpeninghours;

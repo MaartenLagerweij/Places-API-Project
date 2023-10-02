@@ -47,7 +47,9 @@ async function fetchAndUpdatePlacesIds() {
     }
 
     // Update het JSON-bestand met de nieuwe PLACES_IDs
-    fs.writeFileSync(FILE_PATH, JSON.stringify(saunas, null, 4));
+    //fs.writeFileSync(FILE_PATH, JSON.stringify(saunas, null, 4));
+
+    return saunas
 }
 
-fetchAndUpdatePlacesIds();
+module.exports = fetchAndUpdatePlacesIds;
