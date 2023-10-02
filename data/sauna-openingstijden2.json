@@ -1,14 +1,54 @@
 [
   {
+    "Zwaluwhoeve": {
+      "PLACES_ID": "ChIJB4XP0P0yxkcRWDB9nB4BH3Y",
+      "openingstijden": [
+        "Monday: 10:00–22:30",
+        "Tuesday: 10:00–22:30",
+        "Wednesday: 10:00–22:30",
+        "Thursday: 10:00–22:30",
+        "Friday: 10:00–22:30",
+        "Saturday: 10:00–22:30",
+        "Sunday: 10:00–22:30"
+      ]
+    }
+  },
+  {
+    "wellnessboot mill": {
+      "PLACES_ID": "ChIJUQA0QpYax0cRAmYRowe0vOI",
+      "openingstijden": [
+        "Monday: 10:00–22:00",
+        "Tuesday: 10:00–22:00",
+        "Wednesday: 10:00–22:00",
+        "Thursday: 10:00–22:00",
+        "Friday: 10:00–22:00",
+        "Saturday: 10:00–22:00",
+        "Sunday: 10:00–22:00"
+      ]
+    }
+  },
+  {
+    "spapuur": {
+      "PLACES_ID": "ChIJie-F8CSWxkcRnHhGve4vAC8",
+      "openingstijden": [
+        "Monday: 10:00–22:30",
+        "Tuesday: 10:00–22:30",
+        "Wednesday: 10:00–22:30",
+        "Thursday: 10:00–22:30",
+        "Friday: 10:00–22:30",
+        "Saturday: 10:00–22:30",
+        "Sunday: 10:00–22:30"
+      ]
+    }
+  },
+  {
     "Dennenmarken": {
-      "post_id": "885",
       "PLACES_ID": "ChIJJX5EAbBMx0cRiV4wLCWwlVM",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Het Friese Woud": {
-      "post_id": "900",
       "PLACES_ID": "ChIJk4_g0r9ByEcRF9LS46K1Txw",
       "openingstijden": [
         "Monday: 11:00–22:30",
@@ -23,7 +63,6 @@
   },
   {
     "Thermen Anholts": {
-      "post_id": "1071",
       "PLACES_ID": "ChIJ7yN5b7j6t0cR23eEZ0lusgg",
       "openingstijden": [
         "Monday: 10:00–22:00",
@@ -38,7 +77,6 @@
   },
   {
     "Thermen De Waterlelie": {
-      "post_id": "1045",
       "PLACES_ID": "ChIJSQwq6BE2yEcRKC0k1KZIgbo",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -53,7 +91,6 @@
   },
   {
     "Sauna Drome Putten": {
-      "post_id": "996",
       "PLACES_ID": "ChIJw74cb8k1xkcR69r0Orj-UFE",
       "openingstijden": [
         "Monday: 10:00–23:00",
@@ -68,22 +105,20 @@
   },
   {
     "Centre Du Lac": {
-      "post_id": "849",
       "PLACES_ID": "ChIJXagZVGnJxUcRrpXbNnUU8ko",
       "openingstijden": [
         "Monday: 10:00–23:00",
         "Tuesday: 10:00–23:00",
         "Wednesday: 10:00–23:00",
         "Thursday: 10:00–23:00",
-        "Friday: 10:00–23:00",
-        "Saturday: 10:00–23:00",
+        "Friday: 10:00–23:30",
+        "Saturday: 10:00–23:30",
         "Sunday: 10:00–23:00"
       ]
     }
   },
   {
     "Spavarin": {
-      "post_id": "2505",
       "PLACES_ID": "ChIJASbI7F22xUcRg2t5y2obAAI",
       "openingstijden": [
         "Monday: 7:00–00:00",
@@ -98,22 +133,20 @@
   },
   {
     "Sauna De Bron": {
-      "post_id": "1024",
       "PLACES_ID": "ChIJK67Vw1kuyEcRu8N1W5NUA54",
       "openingstijden": [
-        "Monday: Gesloten–",
+        "Monday: Gesloten",
         "Tuesday: 10:30–22:00",
         "Wednesday: 10:30–22:00",
         "Thursday: 10:30–22:00",
         "Friday: 10:30–22:00",
         "Saturday: 10:30–22:00",
-        "Sunday: Gesloten–"
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Veluwse Bron": {
-      "post_id": "1184",
       "PLACES_ID": "ChIJr5btVjfEx0cRZgAtrBlx1FA",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -128,7 +161,6 @@
   },
   {
     "Thermen Holiday": {
-      "post_id": "1178",
       "PLACES_ID": "ChIJpfK2-Fg1xEcRU6N09pXPqL0",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -143,22 +175,20 @@
   },
   {
     "Elysium": {
-      "post_id": "1136",
       "PLACES_ID": "ChIJse72wu2zqUcR0ppOiHZu6eM",
       "openingstijden": [
-        "Monday: Gesloten–",
+        "Monday: Gesloten",
         "Tuesday: 17:00–00:00",
         "Wednesday: 17:00–00:00",
         "Thursday: 17:00–00:00",
         "Friday: 17:00–2:00",
         "Saturday: 17:00–2:00",
-        "Sunday: Gesloten–"
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Wellness Center De Bronsbergen": {
-      "post_id": "1847",
       "PLACES_ID": "ChIJL3aSg_-Tx0cRf5nHx2t5Cx4",
       "openingstijden": [
         "Monday: 10:00–22:00",
@@ -173,7 +203,6 @@
   },
   {
     "Wellness Helmond": {
-      "post_id": "1603",
       "PLACES_ID": "ChIJz94D_fAjx0cR0SvBCJAZNz0",
       "openingstijden": [
         "Monday: 10:00–22:00",
@@ -187,23 +216,7 @@
     }
   },
   {
-    "Zwaluwhoeve": {
-      "post_id": "1201",
-      "PLACES_ID": "ChIJB4XP0P0yxkcRWDB9nB4BH3Y",
-      "openingstijden": [
-        "Monday: 10:00–22:30",
-        "Tuesday: 10:00–22:30",
-        "Wednesday: 10:00–22:30",
-        "Thursday: 10:00–22:30",
-        "Friday: 10:00–22:30",
-        "Saturday: 10:00–22:30",
-        "Sunday: 10:00–22:30"
-      ]
-    }
-  },
-  {
     "Spasereen": {
-      "post_id": "1142",
       "PLACES_ID": "ChIJrzgkg2duxkcRZ7hYWA6nAGk",
       "openingstijden": [
         "Monday: 10:00–23:00",
@@ -218,7 +231,6 @@
   },
   {
     "Sauna Epe": {
-      "post_id": "961",
       "PLACES_ID": "ChIJec0XdLE_uEcR7Lz-2aHqqf8",
       "openingstijden": [
         "Monday: 11:00–23:00",
@@ -233,7 +245,6 @@
   },
   {
     "Wellness Leiden": {
-      "post_id": "2509",
       "PLACES_ID": "ChIJTbw65ejGxUcRo-YXc1iCCv4",
       "openingstijden": [
         "Monday: 10:00–22:00",
@@ -248,7 +259,6 @@
   },
   {
     "Spa Wellness Chateau St Gerlach": {
-      "post_id": "1929",
       "PLACES_ID": "ChIJo3PPcifAwEcR1avPfT8Xc4g",
       "openingstijden": [
         "Monday: 10:00–18:00",
@@ -263,14 +273,12 @@
   },
   {
     "Landgoed De Rosep": {
-      "post_id": "1606",
       "PLACES_ID": "ChIJnZDzDubBxkcREV8TWTiTcoE",
       "openingstijden": "No times found"
     }
   },
   {
     "Thermen Bussloo": {
-      "post_id": "1173",
       "PLACES_ID": "ChIJiZU_uu2_x0cRqZhnuKonNhc",
       "openingstijden": [
         "Monday: 9:00–23:30",
@@ -285,7 +293,6 @@
   },
   {
     "Sanadome": {
-      "post_id": "2074",
       "PLACES_ID": "ChIJ-Q2xZ5wIx0cRcOOV87qTxJw",
       "openingstijden": [
         "Monday: 9:00–23:00",
@@ -300,7 +307,6 @@
   },
   {
     "Parkhotel Horst": {
-      "post_id": "1890",
       "PLACES_ID": "ChIJM99p0mVBx0cRgv20D8xHjVU",
       "openingstijden": [
         "Monday: 00:00–17:00",
@@ -309,13 +315,12 @@
         "Thursday: 00:00–17:00",
         "Friday: 00:00–17:00",
         "Saturday: 00:00–17:00",
-        "Sunday: 00:00–23:59"
+        "Sunday: 00:00–23:59–"
       ]
     }
   },
   {
     "Wellness Sittard": {
-      "post_id": "1886",
       "PLACES_ID": "ChIJocfNJXbHwEcRhyF7NjOrEo8",
       "openingstijden": [
         "Monday: 10:00–22:00",
@@ -330,22 +335,20 @@
   },
   {
     "Bad Boekelo": {
-      "post_id": "1850",
       "PLACES_ID": "ChIJt6qaqiETuEcRXNJXM3SgHMM",
       "openingstijden": [
-        "Monday: 00:00–23:59",
-        "Tuesday: 00:00–23:59",
-        "Wednesday: 00:00–23:59",
-        "Thursday: 00:00–23:59",
-        "Friday: 00:00–23:59",
-        "Saturday: 00:00–23:59",
-        "Sunday: 00:00–23:59"
+        "Monday: 00:00–23:59–",
+        "Tuesday: 00:00–23:59–",
+        "Wednesday: 00:00–23:59–",
+        "Thursday: 00:00–23:59–",
+        "Friday: 00:00–23:59–",
+        "Saturday: 00:00–23:59–",
+        "Sunday: 00:00–23:59–"
       ]
     }
   },
   {
     "Wellness Goes": {
-      "post_id": "1532",
       "PLACES_ID": "ChIJu0Eo88KJxEcRuq21jr8u9n4",
       "openingstijden": [
         "Monday: 10:30–22:30",
@@ -360,7 +363,6 @@
   },
   {
     "Zuiver Amsterdam": {
-      "post_id": "1195",
       "PLACES_ID": "ChIJN7FNpebhxUcRixO4MqFE3jU",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -374,23 +376,7 @@
     }
   },
   {
-    "Wellnessboot Mill": {
-      "post_id": "1189",
-      "PLACES_ID": "ChIJUQA0QpYax0cRAmYRowe0vOI",
-      "openingstijden": [
-        "Monday: 10:00–22:00",
-        "Tuesday: 10:00–22:00",
-        "Wednesday: 10:00–22:00",
-        "Thursday: 10:00–22:00",
-        "Friday: 10:00–22:00",
-        "Saturday: 10:00–22:00",
-        "Sunday: 10:00–22:00"
-      ]
-    }
-  },
-  {
     "Spasense": {
-      "post_id": "1167",
       "PLACES_ID": "ChIJFZoG8ZUnx0cRT1D5vcORDCg",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -404,23 +390,7 @@
     }
   },
   {
-    "Spapuur": {
-      "post_id": "1150",
-      "PLACES_ID": "ChIJie-F8CSWxkcRnHhGve4vAC8",
-      "openingstijden": [
-        "Monday: 10:00–22:30",
-        "Tuesday: 10:00–22:30",
-        "Wednesday: 10:00–22:30",
-        "Thursday: 10:00–22:30",
-        "Friday: 10:00–22:30",
-        "Saturday: 10:00–22:30",
-        "Sunday: 10:00–22:30"
-      ]
-    }
-  },
-  {
     "Thermae Son": {
-      "post_id": "1053",
       "PLACES_ID": "ChIJxST6N1LexkcRZFWGeMPxx4g",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -435,13 +405,12 @@
   },
   {
     "Sauna Beautyfarm Midwolda": {
-      "post_id": "1006",
       "PLACES_ID": "ChIJseMkwzUttkcRmhEN2aEg8oc",
       "openingstijden": [
         "Monday: 11:30–23:00",
-        "Tuesday: Gesloten–",
-        "Wednesday: Gesloten–",
-        "Thursday: Gesloten–",
+        "Tuesday: Gesloten",
+        "Wednesday: Gesloten",
+        "Thursday: Gesloten",
         "Friday: 11:30–23:00",
         "Saturday: 11:30–23:00",
         "Sunday: 11:30–23:00"
@@ -450,7 +419,6 @@
   },
   {
     "Spa Wellness Weesp": {
-      "post_id": "990",
       "PLACES_ID": "ChIJXS9QBakNxkcRk0ps4V7-ePI",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -465,7 +433,6 @@
   },
   {
     "Sauna En Beauty Ommen": {
-      "post_id": "925",
       "PLACES_ID": "ChIJjYMK_Uj9x0cRE2Fq66o1tgE",
       "openingstijden": [
         "Monday: 10:00–21:00",
@@ -480,7 +447,6 @@
   },
   {
     "Het Nolderwoud": {
-      "post_id": "1122",
       "PLACES_ID": "ChIJu48_cWYPyEcR86QDMJtz390",
       "openingstijden": [
         "Monday: 9:00–17:00",
@@ -489,28 +455,26 @@
         "Thursday: 9:00–17:00",
         "Friday: 9:00–17:00",
         "Saturday: 9:00–17:00",
-        "Sunday: Gesloten–"
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Salon Francy": {
-      "post_id": "1088",
-      "PLACES_ID": "ChIJkf1v0yNKqEcR-n4nc95HM-4",
+      "PLACES_ID": "ChIJg85nb5DiyEcRW9v-H41R9p4",
       "openingstijden": [
-        "Monday: 11:00–20:00",
-        "Tuesday: 8:00–20:00",
-        "Wednesday: 8:00–20:00",
-        "Thursday: 8:00–20:00",
-        "Friday: 8:00–21:00",
-        "Saturday: 8:00–14:00",
-        "Sunday: Gesloten–"
+        "Monday: 9:30–20:00",
+        "Tuesday: 9:30–20:00",
+        "Wednesday: 9:30–20:00",
+        "Thursday: 9:30–20:00",
+        "Friday: 9:30–20:00",
+        "Saturday: 9:30–16:30",
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Fort Resort Beemster": {
-      "post_id": "899",
       "PLACES_ID": "ChIJ2V3ZdsYAxkcR31b3R1Gu_DU",
       "openingstijden": [
         "Monday: 10:00–23:00",
@@ -525,7 +489,6 @@
   },
   {
     "Zonnestudio Sunshine Groningen": {
-      "post_id": "869",
       "PLACES_ID": "ChIJ44CqLUzNyUcR8UCO-NHNNaU",
       "openingstijden": [
         "Monday: 9:00–21:30",
@@ -540,7 +503,6 @@
   },
   {
     "Plaza Sportiva Wellness": {
-      "post_id": "852",
       "PLACES_ID": "ChIJsYY63UwtyEcRkUXZq046rrE",
       "openingstijden": [
         "Monday: 7:00–23:00",
@@ -555,22 +517,20 @@
   },
   {
     "Sauna Keizer": {
-      "post_id": "1132",
       "PLACES_ID": "ChIJ2WeKHzsXuEcRFAAXbK1yrZk",
       "openingstijden": [
         "Monday: 12:00–22:30",
         "Tuesday: 12:00–22:30",
-        "Wednesday: 3:00–22:30",
+        "Wednesday: 15:00–22:30",
         "Thursday: 12:00–22:30",
-        "Friday: 3:00–22:30",
-        "Saturday: Gesloten–",
+        "Friday: 15:00–22:30",
+        "Saturday: Gesloten",
         "Sunday: 12:00–20:00"
       ]
     }
   },
   {
     "Thermae Grimbergen": {
-      "post_id": "1115",
       "PLACES_ID": "ChIJ4ZDDq9bpw0cRxbXdFEYO4dU",
       "openingstijden": [
         "Monday: 10:30–23:00",
@@ -585,7 +545,6 @@
   },
   {
     "Thermae Boetfort": {
-      "post_id": "1090",
       "PLACES_ID": "ChIJZRgOa5Ddw0cRwqQEkIAT6_U",
       "openingstijden": [
         "Monday: 10:30–23:00",
@@ -600,7 +559,6 @@
   },
   {
     "Sauna Peize": {
-      "post_id": "1012",
       "PLACES_ID": "ChIJYeSDLMQzyEcRVTo38EBL_vI",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -615,7 +573,6 @@
   },
   {
     "Sauna Heuvelrug": {
-      "post_id": "1001",
       "PLACES_ID": "ChIJ7WhmBnFRxkcR_8n14xfc6Go",
       "openingstijden": [
         "Monday: 10:00–23:00",
@@ -630,7 +587,6 @@
   },
   {
     "Sauna Amstelland": {
-      "post_id": "994",
       "PLACES_ID": "ChIJy5Nj88DfxUcR03jFTqWGGgA",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -645,7 +601,6 @@
   },
   {
     "Sauna Devarana": {
-      "post_id": "956",
       "PLACES_ID": "ChIJjVuwYH_uxkcRaDcYr7zMu6c",
       "openingstijden": [
         "Monday: 11:00–22:00",
@@ -660,18 +615,16 @@
   },
   {
     "Spa Wellness Hof Van Saksen": {
-      "post_id": "945",
       "PLACES_ID": "ChIJMwN8zucmyEcRkmPufuqfBJ4",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Thermen Zuidwolde": {
-      "post_id": "943",
       "PLACES_ID": "ChIJBS2Q13oPyEcR0BdEq4zdvIo",
       "openingstijden": [
-        "Monday: Gesloten–",
-        "Tuesday: Gesloten–",
+        "Monday: Gesloten",
+        "Tuesday: Gesloten",
         "Wednesday: 10:00–22:00",
         "Thursday: 10:00–22:00",
         "Friday: 10:00–22:00",
@@ -682,14 +635,12 @@
   },
   {
     "Sauna Papendrecht": {
-      "post_id": "935",
       "PLACES_ID": "ChIJnZkyOF4pxEcRG7jJ-shqH4Q",
       "openingstijden": "No times found"
     }
   },
   {
     "Mist City Spa": {
-      "post_id": "907",
       "PLACES_ID": "ChIJI9iiIL-ZxkcRSRASUch_6qE",
       "openingstijden": [
         "Monday: 9:00–1:00",
@@ -704,22 +655,20 @@
   },
   {
     "Descansa": {
-      "post_id": "890",
-      "PLACES_ID": "ChIJCSZFxk5vxkcR9fLgL48pW88",
+      "PLACES_ID": "ChIJx1SA-2u6d0cRGUTmVM8M97E",
       "openingstijden": [
-        "Monday: 9:00–13:30",
-        "Tuesday: 9:00–20:30",
-        "Wednesday: 9:00–20:30",
-        "Thursday: 9:00–19:30",
-        "Friday: 9:00–17:30",
-        "Saturday: 9:00–17:00",
-        "Sunday: Gesloten–"
+        "Monday: 10:00–18:00",
+        "Tuesday: 10:00–18:00",
+        "Wednesday: 10:00–18:00",
+        "Thursday: 10:00–18:00",
+        "Friday: 10:00–18:00",
+        "Saturday: 10:00–18:00",
+        "Sunday: 10:00–18:00"
       ]
     }
   },
   {
     "Fontana Nieuweschans": {
-      "post_id": "860",
       "PLACES_ID": "ChIJ1bHa5jE1tkcRpPdnaNGS5LQ",
       "openingstijden": [
         "Monday: 9:00–23:00",
@@ -734,17 +683,15 @@
   },
   {
     "Ons Buiten Oostkapelle": {
-      "post_id": "1524",
       "PLACES_ID": "ChIJpdYHJ8mVxEcRdRYFG-920D4",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Warmond": {
-      "post_id": "2502",
       "PLACES_ID": "ChIJadnD-7TGxUcRqIgBq5sj700",
       "openingstijden": [
-        "Monday: Gesloten–",
+        "Monday: Gesloten",
         "Tuesday: 10:30–22:30",
         "Wednesday: 10:30–22:30",
         "Thursday: 10:30–22:30",
@@ -756,22 +703,20 @@
   },
   {
     "Sauna Deco": {
-      "post_id": "2496",
       "PLACES_ID": "ChIJy0OxCsYJxkcR5Uawr8oT1po",
       "openingstijden": [
         "Monday: 11:00–22:00",
-        "Tuesday: 4:00–22:00",
+        "Tuesday: 16:00–22:00",
         "Wednesday: 11:00–22:00",
         "Thursday: 11:00–22:00",
         "Friday: 11:00–22:00",
         "Saturday: 11:00–22:00",
-        "Sunday: 1:00–19:00"
+        "Sunday: 13:00–19:00"
       ]
     }
   },
   {
     "Sauna Van Egmond Haarlem": {
-      "post_id": "2384",
       "PLACES_ID": "ChIJX_KFaJvvxUcRYUvgnFLUuyQ",
       "openingstijden": [
         "Monday: 10:00–23:00",
@@ -786,7 +731,6 @@
   },
   {
     "Sauna Den Ilp": {
-      "post_id": "2376",
       "PLACES_ID": "ChIJ4xo42MMHxkcRA-dXiBALdeQ",
       "openingstijden": [
         "Monday: 12:00–22:00",
@@ -801,14 +745,12 @@
   },
   {
     "Sauna Het Kuurhuys": {
-      "post_id": "2101",
       "PLACES_ID": "ChIJ5w_FCU21yEcRYYmkBi91mVQ",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Ridderrode": {
-      "post_id": "2093",
       "PLACES_ID": "ChIJU-pgTcnvxUcRs-2J_5IoZcM",
       "openingstijden": [
         "Monday: 12:00–22:00",
@@ -823,14 +765,12 @@
   },
   {
     "De Sauna Van Diemen": {
-      "post_id": "2088",
       "PLACES_ID": "ChIJV47Dm_sLxkcRTOuU45GPeE0",
       "openingstijden": "No times found"
     }
   },
   {
     "Vita Allegra": {
-      "post_id": "1910",
       "PLACES_ID": "ChIJcVFMvAqtwEcRq0K5dp5t3UI",
       "openingstijden": [
         "Monday: 7:00–23:00",
@@ -845,14 +785,13 @@
   },
   {
     "Sauna De Wilder Zwembad De Wilder": {
-      "post_id": "1859",
       "PLACES_ID": "ChIJPxDiRO5yuEcRMDp5Z_aa4QU",
       "openingstijden": [
-        "Monday: 7:15–8:30",
+        "Monday: 19:15–8:30",
         "Tuesday: 8:30–00:00",
-        "Wednesday: 7:15–8:30",
-        "Thursday: 8:15–21:30",
-        "Friday: 7:15–8:30",
+        "Wednesday: 19:15–8:30",
+        "Thursday: 20:15–21:30",
+        "Friday: 19:15–8:30",
         "Saturday: 12:00–15:30",
         "Sunday: 10:00–14:00"
       ]
@@ -860,11 +799,10 @@
   },
   {
     "Sauna Bodycare": {
-      "post_id": "1822",
       "PLACES_ID": "ChIJhd4BxUS4x0cRLiPDhCy1qu4",
       "openingstijden": [
-        "Monday: Gesloten–",
-        "Tuesday: Gesloten–",
+        "Monday: Gesloten",
+        "Tuesday: Gesloten",
         "Wednesday: 11:00–22:00",
         "Thursday: 11:00–22:00",
         "Friday: 11:00–23:00",
@@ -875,7 +813,6 @@
   },
   {
     "Wilmersberg": {
-      "post_id": "1820",
       "PLACES_ID": "ChIJO1ZhgpIXuEcR1larqozcTL8",
       "openingstijden": [
         "Monday: 6:00–00:00",
@@ -890,22 +827,20 @@
   },
   {
     "Spa Wellness Sneek": {
-      "post_id": "1816",
       "PLACES_ID": "ChIJM4mVe6LxyEcRb2gjdB8Wvh0",
       "openingstijden": [
         "Monday: 12:30–17:30",
-        "Tuesday: Gesloten–",
+        "Tuesday: Gesloten",
         "Wednesday: 9:00–20:00",
         "Thursday: 9:00–20:00",
         "Friday: 9:00–17:00",
         "Saturday: 9:00–16:00",
-        "Sunday: Gesloten–"
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Sauna Terschelling": {
-      "post_id": "1714",
       "PLACES_ID": "ChIJc4R4cbApyUcRt5Z5HkzZhMM",
       "openingstijden": [
         "Monday: 8:00–21:00",
@@ -914,13 +849,12 @@
         "Thursday: 8:00–21:00",
         "Friday: 8:00–21:00",
         "Saturday: 9:00–21:00",
-        "Sunday: Gesloten–"
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Sauna Loppersum": {
-      "post_id": "1709",
       "PLACES_ID": "ChIJ-wayQ1w_tkcRm66_l_5Pq6g",
       "openingstijden": [
         "Monday: 9:00–18:00",
@@ -928,14 +862,13 @@
         "Wednesday: 9:00–18:00",
         "Thursday: 9:00–18:00",
         "Friday: 9:00–18:00",
-        "Saturday: Gesloten–",
-        "Sunday: Gesloten–"
+        "Saturday: Gesloten",
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Hotel Aan De Wymerts": {
-      "post_id": "1703",
       "PLACES_ID": "ChIJOXiygEHqyEcRLx06huWItDM",
       "openingstijden": [
         "Monday: 8:30–23:00",
@@ -950,22 +883,20 @@
   },
   {
     "Tjaarda Oranjewoud": {
-      "post_id": "1701",
       "PLACES_ID": "ChIJXRhRhi5cyEcRaQsZ0rmDspo",
       "openingstijden": [
-        "Monday: 00:00–23:59",
-        "Tuesday: 00:00–23:59",
-        "Wednesday: 00:00–23:59",
-        "Thursday: 00:00–23:59",
-        "Friday: 00:00–23:59",
-        "Saturday: 00:00–23:59",
-        "Sunday: 00:00–23:59"
+        "Monday: 00:00–23:59–",
+        "Tuesday: 00:00–23:59–",
+        "Wednesday: 00:00–23:59–",
+        "Thursday: 00:00–23:59–",
+        "Friday: 00:00–23:59–",
+        "Saturday: 00:00–23:59–",
+        "Sunday: 00:00–23:59–"
       ]
     }
   },
   {
     "Sauna La Femme": {
-      "post_id": "1671",
       "PLACES_ID": "ChIJuZci8iFSqEcR_b8J8AaEmsc",
       "openingstijden": [
         "Monday: 6:00–20:00",
@@ -980,58 +911,52 @@
   },
   {
     "Wellness Lucia": {
-      "post_id": "1675",
       "PLACES_ID": "ChIJ3_Bt8ZirqUcROQC0gyFiqwM",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Aquarius": {
-      "post_id": "1621",
       "PLACES_ID": "ChIJwfVZKvhOZUER6yTPTROWU_o",
       "openingstijden": [
-        "Monday: Gesloten–",
-        "Tuesday: 1:00–22:00",
-        "Wednesday: Gesloten–",
-        "Thursday: 3:30–22:00",
-        "Friday: 1:00–22:00",
-        "Saturday: Gesloten–",
-        "Sunday: Gesloten–"
+        "Monday: Gesloten",
+        "Tuesday: 13:00–22:00",
+        "Wednesday: Gesloten",
+        "Thursday: 15:30–22:00",
+        "Friday: 13:00–22:00",
+        "Saturday: Gesloten",
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Sauna Helios": {
-      "post_id": "1619",
       "PLACES_ID": "ChIJ02hND09XqEcRuZAhyklZlvk",
       "openingstijden": [
         "Monday: 10:00–16:00",
-        "Tuesday: Gesloten–",
-        "Wednesday: Gesloten–",
+        "Tuesday: Gesloten",
+        "Wednesday: Gesloten",
         "Thursday: 10:00–14:00",
         "Friday: 10:00–12:00",
-        "Saturday: Gesloten–",
-        "Sunday: Gesloten–"
+        "Saturday: Gesloten",
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Beauty Center De Terp": {
-      "post_id": "1658",
       "PLACES_ID": "ChIJDyU7gOUayEcRprUk3oDpuow",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Bad Hesselingen Meppel": {
-      "post_id": "1644",
       "PLACES_ID": "ChIJVRAZ2PRyyEcR0dxOO5uDq8Q",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Oosterhout": {
-      "post_id": "1612",
       "PLACES_ID": "ChIJFalNp1WfxkcREqsPIlF6xcw",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -1046,14 +971,12 @@
   },
   {
     "Sauna Gieterveen": {
-      "post_id": "1639",
       "PLACES_ID": "ChIJbdEnDG7Xt0cR_61xbeY0aRk",
       "openingstijden": "No times found"
     }
   },
   {
     "Abdij De Westerburcht": {
-      "post_id": "1661",
       "PLACES_ID": "ChIJu-MhQU4fyEcRkbMVTMy13h0",
       "openingstijden": [
         "Monday: 7:00–22:00",
@@ -1068,7 +991,6 @@
   },
   {
     "Bron Apart": {
-      "post_id": "1581",
       "PLACES_ID": "ChIJoXSanSrlxkcREaLhx7IE53U",
       "openingstijden": [
         "Monday: 7:00–23:30",
@@ -1083,21 +1005,18 @@
   },
   {
     "Spameland": {
-      "post_id": "1577",
       "PLACES_ID": "ChIJM3I88LgQyUcRI5SDaE_j6rM",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Franeker": {
-      "post_id": "1557",
       "PLACES_ID": "ChIJQ73iP1vhyEcR6iBeC1duhx8",
       "openingstijden": "No times found"
     }
   },
   {
     "Aquavia": {
-      "post_id": "1546",
       "PLACES_ID": "ChIJGamXTtQgpBIRkAZxmT-0tdc",
       "openingstijden": [
         "Monday: 8:30–1:30",
@@ -1105,14 +1024,13 @@
         "Wednesday: 8:30–1:30",
         "Thursday: 8:30–1:30",
         "Friday: 8:00–15:00",
-        "Saturday: Gesloten–",
-        "Sunday: Gesloten–"
+        "Saturday: Gesloten",
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Thermen En Beauty Zeeland": {
-      "post_id": "1537",
       "PLACES_ID": "ChIJgSneSNGZxEcRxzzXh24xJog",
       "openingstijden": [
         "Monday: 9:00–17:00",
@@ -1121,13 +1039,12 @@
         "Thursday: 10:00–22:00",
         "Friday: 10:00–22:00",
         "Saturday: 10:00–18:00",
-        "Sunday: Gesloten–"
+        "Sunday: Gesloten"
       ]
     }
   },
   {
     "Sauna De Bongerd": {
-      "post_id": "2371",
       "PLACES_ID": "ChIJl6j7UlSuyEcR6OTlE9NR-kg",
       "openingstijden": [
         "Monday: 11:00–22:00",
@@ -1142,7 +1059,6 @@
   },
   {
     "Thermaalbad Arcen": {
-      "post_id": "1047",
       "PLACES_ID": "ChIJRxCfMzRdx0cRWCV3nNYPq6E",
       "openingstijden": [
         "Monday: 8:30–23:00",
@@ -1157,7 +1073,6 @@
   },
   {
     "Sauna Soesterberg": {
-      "post_id": "1014",
       "PLACES_ID": "ChIJuzAmQFNCxkcRZymCFC_tOBE",
       "openingstijden": [
         "Monday: 9:00–23:00",
@@ -1172,10 +1087,9 @@
   },
   {
     "Spa Gouda": {
-      "post_id": "2499",
       "PLACES_ID": "ChIJJ_CGJgLUxUcRHsCWLAm845I",
       "openingstijden": [
-        "Monday: Gesloten–",
+        "Monday: Gesloten",
         "Tuesday: 11:00–22:00",
         "Wednesday: 11:00–22:00",
         "Thursday: 11:00–22:00",
@@ -1187,51 +1101,46 @@
   },
   {
     "Sauna Aestas": {
-      "post_id": "2236",
       "PLACES_ID": "ChIJYdHuppgmxkcRqXUJ9OqaZas",
       "openingstijden": "No times found"
     }
   },
   {
     "Easyfeeling": {
-      "post_id": "1844",
       "PLACES_ID": "ChIJL7djZeaEx0cRdYKShE5hEZc",
       "openingstijden": "No times found"
     }
   },
   {
     "Welcome Wellness Westcord": {
-      "post_id": "1695",
-      "PLACES_ID": "ChIJv5FOwxnixUcRTrUSxxpVT8s",
+      "PLACES_ID": "ChIJb1SnFdhxp0cR3J75rkt5eXw",
       "openingstijden": [
-        "Monday: 7:00–22:00",
-        "Tuesday: 7:00–22:00",
-        "Wednesday: 7:00–22:00",
-        "Thursday: 7:00–22:00",
-        "Friday: 7:00–22:00",
-        "Saturday: 8:00–22:00",
-        "Sunday: 8:00–22:00"
+        "Monday: 8:00–21:00",
+        "Tuesday: 14:00–21:00",
+        "Wednesday: 8:00–21:00",
+        "Thursday: 14:00–21:00",
+        "Friday: 8:00–23:00",
+        "Saturday: 14:00–23:00",
+        "Sunday: 10:00–16:00"
       ]
     }
   },
   {
     "Westcord Wtc Hotel Leeuwarden": {
-      "post_id": "1678",
       "PLACES_ID": "ChIJgcAJ0TH8yEcRyWVSVHcUddA",
       "openingstijden": [
-        "Monday: 00:00–23:59",
-        "Tuesday: 00:00–23:59",
-        "Wednesday: 00:00–23:59",
-        "Thursday: 00:00–23:59",
-        "Friday: 00:00–23:59",
-        "Saturday: 00:00–23:59",
-        "Sunday: 00:00–23:59"
+        "Monday: 00:00–23:59–",
+        "Tuesday: 00:00–23:59–",
+        "Wednesday: 00:00–23:59–",
+        "Thursday: 00:00–23:59–",
+        "Friday: 00:00–23:59–",
+        "Saturday: 00:00–23:59–",
+        "Sunday: 00:00–23:59–"
       ]
     }
   },
   {
     "Hunzebergen": {
-      "post_id": "1650",
       "PLACES_ID": "ChIJjbUFHXXdt0cR9Tu7fwaj6Co",
       "openingstijden": [
         "Monday: 7:00–22:00",
@@ -1246,22 +1155,20 @@
   },
   {
     "Amadore Kamperduinen": {
-      "post_id": "1543",
       "PLACES_ID": "ChIJrblrIvySxEcRFTX5M7igdck",
       "openingstijden": [
-        "Monday: 00:00–23:59",
-        "Tuesday: 00:00–23:59",
-        "Wednesday: 00:00–23:59",
-        "Thursday: 00:00–23:59",
-        "Friday: 00:00–23:59",
-        "Saturday: 00:00–23:59",
-        "Sunday: 00:00–23:59"
+        "Monday: 00:00–23:59–",
+        "Tuesday: 00:00–23:59–",
+        "Wednesday: 00:00–23:59–",
+        "Thursday: 00:00–23:59–",
+        "Friday: 00:00–23:59–",
+        "Saturday: 00:00–23:59–",
+        "Sunday: 00:00–23:59–"
       ]
     }
   },
   {
     "Betuwsch Badhuys": {
-      "post_id": "1541",
       "PLACES_ID": "ChIJjbifx-1WxkcRqmVg90sDSLU",
       "openingstijden": [
         "Monday: 9:00–17:00",
@@ -1276,11 +1183,10 @@
   },
   {
     "Het Raedthuys": {
-      "post_id": "1529",
       "PLACES_ID": "ChIJH0iVWV0NxEcR7n9F1h4dK4E",
       "openingstijden": [
         "Monday: 10:00–23:00",
-        "Tuesday: Gesloten–",
+        "Tuesday: Gesloten",
         "Wednesday: 10:00–23:00",
         "Thursday: 10:00–23:00",
         "Friday: 10:00–23:00",
@@ -1291,7 +1197,6 @@
   },
   {
     "Caesar Den Haag": {
-      "post_id": "2513",
       "PLACES_ID": "ChIJRaFjGzG3xUcR0D2CXY04gMc",
       "openingstijden": [
         "Monday: 7:00–23:00",
@@ -1306,7 +1211,6 @@
   },
   {
     "De Woudfennen": {
-      "post_id": "1160",
       "PLACES_ID": "ChIJ-SOV52n0yEcRS1Y2vfq6sWQ",
       "openingstijden": [
         "Monday: 10:30–22:30",
@@ -1321,7 +1225,6 @@
   },
   {
     "Thermae 2000": {
-      "post_id": "1155",
       "PLACES_ID": "ChIJjXFj9q7qwEcRf1vM8JDfqQw",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -1336,22 +1239,20 @@
   },
   {
     "Wellness Trivium": {
-      "post_id": "1109",
       "PLACES_ID": "ChIJoZiULBMfxEcR280wrOvxJSE",
       "openingstijden": [
-        "Monday: 00:00–23:59",
-        "Tuesday: 00:00–23:59",
-        "Wednesday: 00:00–23:59",
-        "Thursday: 00:00–23:59",
-        "Friday: 00:00–23:59",
-        "Saturday: 00:00–23:59",
-        "Sunday: 00:00–23:59"
+        "Monday: 00:00–23:59–",
+        "Tuesday: 00:00–23:59–",
+        "Wednesday: 00:00–23:59–",
+        "Thursday: 00:00–23:59–",
+        "Friday: 00:00–23:59–",
+        "Saturday: 00:00–23:59–",
+        "Sunday: 00:00–23:59–"
       ]
     }
   },
   {
     "Thermen Goirle": {
-      "post_id": "1099",
       "PLACES_ID": "ChIJByagWJa-xkcRHmQxEbNct0U",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -1366,7 +1267,6 @@
   },
   {
     "Thermen La Mer": {
-      "post_id": "1075",
       "PLACES_ID": "ChIJY5WGRpUWxkcRGHhtRUxOp3M",
       "openingstijden": [
         "Monday: 10:00–23:00",
@@ -1381,11 +1281,10 @@
   },
   {
     "Sauna De Veluwe": {
-      "post_id": "1027",
       "PLACES_ID": "ChIJI-JFEA5NxkcR61LhzyCMX-s",
       "openingstijden": [
         "Monday: 10:00–22:30",
-        "Tuesday: Gesloten–",
+        "Tuesday: Gesloten",
         "Wednesday: 10:00–22:30",
         "Thursday: 10:00–22:30",
         "Friday: 10:00–23:00",
@@ -1396,14 +1295,12 @@
   },
   {
     "Sauna Velp": {
-      "post_id": "979",
       "PLACES_ID": "ChIJSxbRWYKjx0cRwuogE7jVn60",
       "openingstijden": "No times found"
     }
   },
   {
     "Beautycentrum De Parel": {
-      "post_id": "970",
       "PLACES_ID": "ChIJZzFf0A--xEcRKfEWUZqCkrM",
       "openingstijden": [
         "Monday: 10:00–21:00",
@@ -1418,7 +1315,6 @@
   },
   {
     "Sauna Leeuwerikhoeve": {
-      "post_id": "967",
       "PLACES_ID": "ChIJDTgUeV5UyEcRPL0xjmFyEg8",
       "openingstijden": [
         "Monday: 10:00–22:30",
@@ -1433,18 +1329,16 @@
   },
   {
     "Sauna De Leliehof": {
-      "post_id": "951",
       "PLACES_ID": "ChIJK8pKmonCyEcRc8kq_v5p1O8",
       "openingstijden": "No times found"
     }
   },
   {
     "Sauna Swoll": {
-      "post_id": "937",
       "PLACES_ID": "ChIJU0Lc5yPex0cRgZmhPi0dQdE",
       "openingstijden": [
         "Monday: 10:00–22:00",
-        "Tuesday: Gesloten–",
+        "Tuesday: Gesloten",
         "Wednesday: 10:00–22:00",
         "Thursday: 10:00–22:00",
         "Friday: 10:00–23:00",
@@ -1455,7 +1349,6 @@
   },
   {
     "Sauna Hoen": {
-      "post_id": "928",
       "PLACES_ID": "ChIJHbJvc_ZSqEcRn9v37r7R5vc",
       "openingstijden": [
         "Monday: 8:00–22:00",
@@ -1470,7 +1363,6 @@
   },
   {
     "Sare Thermen Beauty": {
-      "post_id": "919",
       "PLACES_ID": "ChIJiYPW_MEQuEcREgh654Z54UY",
       "openingstijden": [
         "Monday: 9:30–22:30",
@@ -1485,7 +1377,6 @@
   },
   {
     "Palestra": {
-      "post_id": "914",
       "PLACES_ID": "ChIJ__-_2hxRqEcRCX_qmW40mN4",
       "openingstijden": [
         "Monday: 8:30–23:00",
@@ -1500,32 +1391,29 @@
   },
   {
     "Orange Wellness Centre": {
-      "post_id": "912",
-      "PLACES_ID": "ChIJoXzHquJRqEcRdlbipfBSQbg",
+      "PLACES_ID": "ChIJD8r8hGLsC0cRpJWxVu1GYc8",
       "openingstijden": [
-        "Monday: 12:00–00:00",
-        "Tuesday: 12:00–00:00",
-        "Wednesday: 12:00–00:00",
-        "Thursday: 12:00–00:00",
-        "Friday: 12:00–00:00",
-        "Saturday: 17:00–00:00",
-        "Sunday: 12:00–00:00"
+        "Monday: 7:00–23:00",
+        "Tuesday: 7:00–23:00",
+        "Wednesday: 7:00–23:00",
+        "Thursday: 7:00–23:00",
+        "Friday: 7:00–23:00",
+        "Saturday: 7:00–23:00",
+        "Sunday: 7:00–23:00"
       ]
     }
   },
   {
     "Fonteyn Thermen": {
-      "post_id": "894",
       "PLACES_ID": "ChIJVVUFhudsxEcRXBzOrGCKRlY",
       "openingstijden": "No times found"
     }
   },
   {
     "Top Alivio": {
-      "post_id": "1081",
       "PLACES_ID": "ChIJoeA80bhKx0cRQNxgOP3b_JA",
       "openingstijden": [
-        "Monday: Gesloten–",
+        "Monday: Gesloten",
         "Tuesday: 10:00–22:30",
         "Wednesday: 10:00–22:30",
         "Thursday: 10:00–22:30",
@@ -1537,7 +1425,6 @@
   },
   {
     "Spabron Hesselerbrug": {
-      "post_id": "1029",
       "PLACES_ID": "ChIJicAsG1vit0cRCw1-bFC2gCI",
       "openingstijden": [
         "Monday: 10:30–22:30",
