@@ -1,0 +1,39 @@
+[
+    {
+      "Dennenmarken": {
+        "post_id": "885",
+        "PLACES_ID": "ChIJJX5EAbBMx0cRiV4wLCWwlVM",
+        "openingstijden": "No times found"
+      }
+    },
+    {
+      "Sauna Het Friese Woud": {
+        "post_id": "900",
+        "PLACES_ID": "ChIJk4_g0r9ByEcRF9LS46K1Txw",
+        "openingstijden": [
+          "Monday: 11:00–22:30",
+          "Tuesday: 11:00–22:30",
+          "Wednesday: 11:00–22:30",
+          "Thursday: 11:00–22:30",
+          "Friday: 11:00–22:30",
+          "Saturday: 11:00–22:30",
+          "Sunday: 11:00–21:30"
+        ]
+      }
+    },
+    {
+      "Thermen Anholts": {
+        "post_id": "1071",
+        "PLACES_ID": "ChIJ7yN5b7j6t0cR23eEZ0lusgg",
+        "openingstijden": [
+          "Monday: 10:00–22:00",
+          "Tuesday: 10:00–22:00",
+          "Wednesday: 10:00–22:00",
+          "Thursday: 10:00–22:00",
+          "Friday: 10:00–22:00",
+          "Saturday: 10:00–22:00",
+          "Sunday: 10:00–20:00"
+        ]
+      }
+    }
+]
